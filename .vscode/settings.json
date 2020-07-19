@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"D:/Projects/UE4/ToonTanks/.git": true,
+		"D:/Projects/UE4/ToonTanks/.vs": true,
+		"D:/Projects/UE4/ToonTanks/.vscode": true,
+		"D:/Projects/UE4/ToonTanks/Content": true,
+		"D:/Projects/UE4/ToonTanks/DerivedDataCache": true,
+		"D:/Projects/UE4/ToonTanks/Intermediate": true,
+		"D:/Projects/UE4/ToonTanks/Saved": true
+	}
+}
